@@ -9,7 +9,7 @@
   "author": "Naesung <minseo0388@outlook.com>",
   "license": "MIT",
   "dependencies": {
-    "discord.js": "^12.5.3",
+    "discord.js": "^13.1.0",
     "melon-chart-api": "^1.1.4",
     "naesungmath": "^2.1.0",
     "node-osu": "^2.2.1",
@@ -21,9 +21,9 @@
   },
   "homepage": "https://github.com/Naesung/Naesungbot-v3#readme",
   "devDependencies": {
-    "eslint": "^7.26.0",
-    "eslint-config-standard": "^16.0.2",
-    "eslint-plugin-import": "^2.22.1",
+    "eslint": "^7.32.0",
+    "eslint-config-standard": "^16.0.3",
+    "eslint-plugin-import": "^2.24.2",
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-promise": "^5.1.0",
     "eslint-plugin-standard": "^5.0.0"
